@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
+
+# Dependencies & build output
+node_modules/
+dist/
+build/
+
+# Logs & environment files
+*.log
+.env
+.env.*
+
+# Temporary files
+*.tmp
+.cache/
